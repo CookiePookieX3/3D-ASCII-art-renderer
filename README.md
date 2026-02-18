@@ -1,0 +1,1 @@
+This is very simple ray caster ive made in couple days, to use compile localy main.cpp file, u can change scene in main.cpp file, i think it is pretty intuitive hoe to do that, scene text editor will be featured in next versions.
